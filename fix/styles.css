@@ -1,0 +1,23 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.wrap{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: top;
+}
+.linear{
+    background:  linear-gradient(40deg, #e91e63, transparent);
+    -moz-background:  linear-gradient(40deg, #e91e63, transparent);
+    -o-background:  linear-gradient(40deg, #e91e63, transparent);
+    -webkit-background:  linear-gradient(40deg, #e91e63, transparent); 
+}
+.lor{
+    color: green;
+    margin: 18% 0% 0% 18%;
+    font-size: 8em;
+
+}
